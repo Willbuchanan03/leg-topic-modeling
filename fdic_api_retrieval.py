@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1qcx7IOEN6Mls7ficAbk1c3GxqBLS7iGg
 """
 
+from google.colab import drive
+drive.mount('/content/drive')
+
 '''
 Beck Buchanan - Senior Thesis
 Python Script for Retrieval of FDIC Data
